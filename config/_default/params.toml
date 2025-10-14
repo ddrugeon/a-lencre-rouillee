@@ -24,6 +24,7 @@ fingerprintAlgorithm = "sha256"
   logo = "img/logo.png"
   # logoDark = "img/dark-logo.jpg"
   showTitle = true
+  logoHeight = 60
 
 [footer]
   showCopyright = true

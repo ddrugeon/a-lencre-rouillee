@@ -128,3 +128,49 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+# Hugo
+/public/
+/resources/_gen/
+/assets/jsconfig.json
+hugo_stats.json
+
+hugo
+hugo.exe
+hugo_extended_*
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# temporary files
+*.tmp
+*.temp
+*.log
+*.cache
+
+# Node
+node_modules/
+package-lock.json
+yarn.lock
+
+# local environment
+.env
+.env.local
+.env.*.local
+
+# Clever Cloud
+.clever.json.backup
+
+# Logs
+deploy.log
+
+# backup
+*.bak
+*.backup
