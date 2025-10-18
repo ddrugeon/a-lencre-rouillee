@@ -1,5 +1,5 @@
-module github.com/ddrugeon/zebeurton.github.io
+module github.com/ddrugeon/a-lencre-rouillee
 
 go 1.24.2
 
-require github.com/jpanther/congo/v2 v2.12.2 // indirect
+require github.com/imfing/hextra v0.11.1 // indirect
