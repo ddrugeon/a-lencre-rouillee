@@ -1,7 +1,7 @@
 ---
 title: Pourquoi je lance ce blog
 date: 2025-10-18T18:00:00+01:00
-draft: true
+draft: false
 author: David Drugeon-Hamon
 tags:
   - introduction
