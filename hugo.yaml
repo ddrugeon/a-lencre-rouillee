@@ -1,0 +1,113 @@
+baseURL: "https://david.drugeon-hamon.bzh/"
+languageCode: "fr-FR"
+defaultContentLanguage: "fr"
+title: "À l'encre rouillée"
+
+# Hextra theme
+module:
+  imports:
+    - path: github.com/imfing/hextra
+
+# Configuration de la langue française
+languages:
+  fr:
+    languageName: "Français"
+    weight: 1
+    params:
+      dateFormat: "2 January 2006" # Format français
+
+# Activer Git info pour les dates
+enableGitInfo: true
+
+# Menu principal
+menu:
+  main:
+    - name: Blog
+      pageRef: /blog
+      weight: 1
+    - name: About
+      pageRef: /about
+      weight: 2
+    - name: Search
+      weight: 3
+      params:
+        type: search
+
+  # Liens sociaux dans le menu
+  sidebar:
+    - name: GitHub
+      weight: 1
+      url: "https://github.com/ddrugeon"
+      params:
+        icon: github
+    - name: LinkedIn
+      weight: 2
+      url: "https://linkedin.com/in/ddrugeon"
+      params:
+        icon: linkedin
+    - name: Bluesky
+      weight: 3
+      url: "https://bsky.app/profile/zebeurton.bsky.social"
+      params:
+        icon: x-twitter
+    - name: Twitter
+      weight: 4
+      url: "https://twitter.com/zebeurton"
+      params:
+        icon: x-twitter
+
+# Paramètres du thème
+params:
+  description: "Chroniques d'un corsaire du cyberspace"
+
+  # Configuration de la page
+  page:
+    width: wide # Options: normal, wide, full
+
+  # Navbar
+  navbar:
+    displayTitle: true
+    displayLogo: true
+    logo:
+      path: /images/logo.png
+      width: 40
+      height: 40
+  # Footer
+  footer:
+    displayCopyright: true
+    displayPoweredBy: false
+
+  # Blog
+  blog:
+    list:
+      displayTags: true
+      displayDate: true
+      displayReadingTime: true
+  # Search
+  search:
+    enable: true
+    type: flexsearch
+
+  # Editeur (optionnel)
+  editURL:
+    enable: false
+
+# Outputs
+outputs:
+  home: [html, rss]
+  page: [html]
+  section: [html, rss]
+
+# Markup
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    style: dracula # Style de coloration syntaxique
+    lineNos: false
+
+# Taxonomies
+taxonomies:
+  tag: tags
+  category: categories

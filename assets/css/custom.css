@@ -1,27 +1,206 @@
-/* logo alignment enhancement */
-.site-logo {
-    display: flex;
-    align-items: center;
-    gap: 1rem;
+/* Personnalisation légère de Hextra */
+/* Ce fichier NE remplace PAS les styles Hextra, il les complète */
+
+:root {
+    /* Personnalisation des couleurs si nécessaire */
+    /* Décommentez et modifiez selon vos goûts */
+
+    /* --primary-hue: 210; */ /* Teinte principale (0-360) */
+    /* --gray-hue: 220; */ /* Teinte des gris */
 }
 
-.site-logo img {
+/* Ajustements typographiques */
+body {
+    /* Ajustez la police si nécessaire */
+    /* font-family: 'Votre Police', system-ui, sans-serif; */
+}
+
+/* Photo de profil en médaillon sur la page About */
+.hx-prose img[src*="author.jpg"],
+.hx-prose img[alt*="Photo de profil"],
+article img[src*="author.jpg"] {
+    width: 200px !important;
+    height: 200px !important;
+    border-radius: 50% !important;
+    object-fit: cover;
+    display: block !important;
+    margin: 2rem auto 1.5rem auto !important;
+    border: 4px solid rgba(255, 255, 255, 0.1) !important;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3) !important;
+}
+
+/* Centrer le titre et ajuster la taille - PLUS SPÉCIFIQUE */
+article.hx-prose h1,
+.hx-prose h1,
+main h1 {
+    text-align: center !important;
+    font-size: 2rem !important;
+    line-height: 1.2 !important;
+    margin-bottom: 1rem !important;
+}
+
+/* Centrer TOUS les paragraphes après la photo sur la page About */
+article.hx-prose p,
+.hx-prose p {
+    text-align: center !important;
+}
+
+/* Remettre l'alignement normal pour les sections suivantes */
+article.hx-prose h2 ~ p,
+.hx-prose h2 ~ p,
+article.hx-prose h2 ~ * p,
+.hx-prose h2 ~ * p {
+    text-align: left !important;
+}
+
+/* Container pour les icônes sociales en HTML */
+.social-icons-html {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-top: 1.5rem;
+    justify-content: center;
+}
+
+/* Liens des icônes sociales */
+.social-icons-html a {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
     width: 60px;
     height: 60px;
-    object-fit: cover;
+    border-radius: 50%;
+    background-color: rgba(255, 255, 255, 0.05);
+    transition: all 0.3s ease;
+    text-decoration: none;
+    border: 2px solid rgba(255, 255, 255, 0.1);
+    position: relative;
+}
+
+.social-icons-html a:hover {
+    background-color: rgba(255, 255, 255, 0.15);
+    border-color: rgba(255, 255, 255, 0.3);
+    transform: translateY(-4px) scale(1.05);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+}
+
+/* Icônes SVG à l'intérieur */
+.social-icons-html svg {
+    width: 28px;
+    height: 28px;
+    flex-shrink: 0;
+}
+
+/* Couleurs spécifiques au hover */
+.social-icons-html a[href*="github"]:hover {
+    background-color: rgba(88, 166, 255, 0.2);
+    border-color: rgba(88, 166, 255, 0.5);
+}
+
+.social-icons-html a[href*="linkedin"]:hover {
+    background-color: rgba(0, 119, 181, 0.2);
+    border-color: rgba(0, 119, 181, 0.5);
+}
+
+.social-icons-html a[href*="bsky.app"]:hover {
+    background-color: rgba(16, 131, 254, 0.2);
+    border-color: rgba(16, 131, 254, 0.5);
+}
+
+.social-icons-html a[href*="twitter"]:hover {
+    background-color: rgba(29, 155, 240, 0.2);
+    border-color: rgba(29, 155, 240, 0.5);
+}
+
+/* Tooltip au hover (affiche le title) */
+.social-icons-html a::after {
+    content: attr(title);
+    position: absolute;
+    bottom: -35px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: rgba(0, 0, 0, 0.9);
+    color: white;
+    padding: 0.375rem 0.75rem;
+    border-radius: 6px;
+    font-size: 0.875rem;
+    white-space: nowrap;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.2s ease;
+    z-index: 10;
+}
+
+.social-icons-html a:hover::after {
+    opacity: 1;
+}
+
+/* Personnalisation du header si nécessaire */
+.navbar {
+    /* Vos ajustements ici */
+}
+
+/* Personnalisation des articles */
+article {
+    /* Vos ajustements ici */
+}
+
+/* Ajustements responsive */
+@media (max-width: 768px) {
+    /* Photo plus petite sur mobile */
+    .hx-prose img[src*="author.jpg"],
+    .hx-prose img[alt*="Photo de profil"],
+    article img[src*="author.jpg"] {
+        width: 150px !important;
+        height: 150px !important;
+    }
+
+    /* Titre plus petit sur mobile */
+    article.hx-prose h1,
+    .hx-prose h1,
+    main h1 {
+        font-size: 1.75rem !important;
+    }
+
+    /* Icônes sociales plus petites sur mobile */
+    .social-icons-html a {
+        width: 50px;
+        height: 50px;
+    }
+
+    .social-icons-html svg {
+        width: 24px;
+        height: 24px;
+    }
+}
+
+.article-banner {
+    position: relative;
+    width: 100%;
+    height: 400px;
+    margin: -2rem 0 2rem 0;
+    overflow: hidden;
     border-radius: 8px;
-    vertical-align: middle;
 }
 
-/* Alternative if logo is inside header */
-header .flex.items-center img {
-    margin-right: 0.75rem;
-    vertical-align: middle;
+.article-banner img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
 }
 
-/* header enhancement */
-header .site-title {
-    display: flex;
-    align-items: center;
-    gap: 0.75rem;
+.banner-overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.8), transparent);
+    padding: 2rem;
+}
+
+.banner-title {
+    color: white;
+    margin: 0;
+    font-size: 2.5rem;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
