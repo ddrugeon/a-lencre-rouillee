@@ -17,15 +17,6 @@ keywords:
   - DevOps
   - observabilité
   - retour d'expérience
-cover:
-  image: "banner.jpg"
-  alt: "Bannière du blog"
-  caption: "Chroniques d'un corsaire du cyberspace"
-  image: /images/posts/2025/pourquoi-ce-blog/cover.jpg
-  alt: Illustration d'un bureau avec un ordinateur et un café
-  caption: C'est parti pour l'aventure !
-  relative: false
-  hidden: false
 ShowToc: true
 TocOpen: false
 ShowReadingTime: true
@@ -37,7 +28,7 @@ ShowWordCount: true
 comments: false
 ---
 
-<img src="banner.jpg" alt="Bannière À l'encre rouillée" style="width: 100%; height: 400px; object-fit: cover; border-radius: 8px; margin-bottom: 2rem;">
+<img src="/blog/2025/10/pourquoi-je-lance-ce-blog/banner.jpg" alt="Bannière À l'encre rouillée" style="width: 100%; height: 400px; object-fit: cover; border-radius: 8px; margin-bottom: 2rem;">
 <p style="font-size: 0.75rem; color: #666; margin-top: 0.5rem; margin-bottom: 2rem;">
 Photo de <a href="https://unsplash.com/fr/@martipaan" target="_blank" style="color: #999;">Martipaan</a> sur Unsplash
 </p>
