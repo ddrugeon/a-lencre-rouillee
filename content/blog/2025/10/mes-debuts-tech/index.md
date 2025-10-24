@@ -1,40 +1,19 @@
 ---
 title: De Thomson MO5 à l'IA - 40 ans de passion tech
-date: 2025-10-20
-draft: false
-description: "Comment un Thomson MO5 en 1985 a façonné 40 ans de passion pour la tech : du club MICA d'Anglet aux projets open source, retour sur un parcours guidé par le partage, la collaboration et la curiosité technologique."
-summary: "À 50 ans, je retrace mon parcours depuis mes premiers pas sur Thomson MO5 jusqu'à aujourd'hui. Une histoire de passion tech née dans les années 80 qui continue de m'animer : partage, collaboration et veille technologique."
+date: 2025-10-20T09:00:00+01:00
+author: David Drugeon-Hamon
 tags:
   - présentation
   - motivation
 categories:
   - Tech
   - Parcours personnel
-authors:
-  - David Drugeon-Hamon
-weight: 1
-toc: true
-comments: false
-math: false
-mermaid: false
-cover:
-  image: /images/posts/2025/mes-debuts-tech/cover.jpg
-  alt: "Des disquettes empilées sur une table"
-  caption: "Chroniques d'un corsaire du cyberspace"
-  relative: false
-  hidden: false
-featured: false
-type: default
-layout: ""
-url: /blog/40-ans-de-passion-tech
-aliases:
-  - /blog/mes-debuts-tech
-extra:
-  toc: true
-  reading_time: true
-  featured: false
-cascade:
-  type: default
+description: "Comment un Thomson MO5 en 1985 a façonné 40 ans de passion pour la tech : du club MICA d'Anglet aux projets open source, retour sur un parcours guidé par le partage, la collaboration et la curiosité technologique."
+summary: "À 50 ans, je retrace mon parcours depuis mes premiers pas sur Thomson MO5 jusqu'à aujourd'hui. Une histoire de passion tech née dans les années 80 qui continue de m'animer : partage, collaboration et veille technologique."
+keywords:
+  - 80's
+  - vintage computer
+  - motivation
 ShowToc: true
 TocOpen: false
 ShowReadingTime: true
@@ -43,9 +22,10 @@ ShowPostNavLinks: true
 ShowBreadCrumbs: true
 ShowCodeCopyButtons: false
 ShowWordCount: true
+comments: false
 ---
 
-<img src="cover.jpg" alt="Un " style="width: 100%; height: 400px; object-fit: cover; border-radius: 8px; margin-bottom: 2rem;">
+<img src="/blog/2025/10/mes-debuts-tech/cover.jpg" alt="Un " style="width: 100%; height: 400px; object-fit: cover; border-radius: 8px; margin-bottom: 2rem;">
 <p style="font-size: 0.75rem; color: #666; margin-top: 0.5rem; margin-bottom: 2rem;">
     Photo de <a href="https://unsplash.com/fr/@sjjillan" target="_blank" style="color: #999;">Sjjillan</a> sur Unsplash
 </p>
