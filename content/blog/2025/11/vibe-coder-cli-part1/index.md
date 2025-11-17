@@ -3,7 +3,7 @@ title: "J'ai vibe codé une CLI (1/3) : Du problème à la solution"
 Date: 2025-11-12
 created: 2025-11-12
 modified: 2025-11-17
-draft: true
+draft: false
 author: David Drugeon-Hamon
 tags:
   - blog
