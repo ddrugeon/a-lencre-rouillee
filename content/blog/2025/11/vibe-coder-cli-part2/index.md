@@ -122,14 +122,14 @@ Ce que j'ai pu constaté est que la limite est vite atteinte lorsque l'on demand
 > Lors de mon expérimentation, GPT5 n'était pas encore disponible. C'est maintenant le modèle par défaut de Junie et permet d'économiser des crédits vu le prix au token moins élevé que Claude.
 
 C'est alors que je me suis dit que je pouvais tester directement Claude Code en prenant l'abonnement Pro.
+
 ### Anthropic et Claude : qui sont-ils ?
 
-Ce que j'ai pu constater est que la limite est vite atteinte lorsque l'on demande à Junie de spécifier et implémenter une nouvelle fonctionnalité en fonction du modèle choisi.
+Pour ceux qui ne sont pas familiers, Anthropic est une entreprise fondée en 2021 par d’anciens employés d’OpenAI (l’entreprise derrière ChatGPT). Ils proposent différents modèles de langage sous la famille Claude.
 
-> [!info] A noter
-> Lors de mon expérimentation, GPT5 n'était pas encore disponible. C’est maintenant le modèle par défaut de Junie, qui lui permet d’économiser des crédits, grâce à son prix au token moins élevé que celui de Claude.
+> [!info] Fun fact
+> Le nom "Claude" est un hommage à Claude Shannon, grand mathématicien et père fondateur de l'encodage de l'information.
 
-C'est alors que je me suis dit que je pouvais tester directement Claude Code en prenant l'abonnement Pro.
 
 ### Claude Code : l'assistant en ligne de commande
 
