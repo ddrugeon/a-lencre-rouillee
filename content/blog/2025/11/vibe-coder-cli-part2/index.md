@@ -1,7 +1,7 @@
 ---
 title: "J'ai vibe codé une CLI (2/3) : Pourquoi Claude Code ?"
-date: 2024-11-15
-created: 2024-11-15
+date: 2025-11-18
+created: 2025-11-15
 modified: 2025-11-20
 draft: false
 author: David Drugeon-Hamon
@@ -139,7 +139,7 @@ Depuis février 2024, Anthropic a lancé un assistant de code sous forme d'une C
 
 **1. Performance du modèle**
 
-Claude s'est imposé comme la référence pour la génération de code. Les tests de performane publics (HumanEval, MBPP) le placent régulièrement en tête, et sur le SWE bench - qui évalue la capacité à résoudre des issues réelles sur des repos GitHub - trois modèles Claude figurent dans le top 5.
+Claude s'est imposé comme la référence pour la génération de code. Les tests de performance publics (HumanEval, MBPP) le placent régulièrement en tête, et sur le SWE bench - qui évalue la capacité à résoudre des issues réelles sur des repos GitHub - trois modèles Claude figurent dans le top 5.
 
 > [!attention]
 > Depuis la rédaction de cet article, Gemini 3 Pro est sorti et est maintenant considéré comme le meilleur modèle pour la génération de code.
