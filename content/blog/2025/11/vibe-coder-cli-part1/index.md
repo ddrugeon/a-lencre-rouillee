@@ -217,7 +217,7 @@ Maintenant que le contexte est posé, il est temps de choisir l'outil qui va m'a
 - Le processus d'évaluation que nous avons mis en place
 - Les forces spécifiques de Claude Code pour ce type de projet
 
- **[Lire la partie 2 : Pourquoi Claude Code ?](#)** *(à venir)*
+ 👉 **[Lire la partie 2 : Pourquoi Claude Code ?](/blog/2025/11/vibe-coder-cli-part2/)**
 
 ---
 
