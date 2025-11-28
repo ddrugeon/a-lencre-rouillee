@@ -12,8 +12,8 @@ tags:
   - automation
   - SRE
 categories:
-  - DevOps
-  - SRE
+  - IA Générative
+  - Outils
 description: Comment un SRE transforme une tâche fastidieuse de création de network policies en opportunité d'expérimenter l'IA générative
 keywords: kubernetes, network policies, cilium, SRE, automation, IA générative
 ShowToc: true
