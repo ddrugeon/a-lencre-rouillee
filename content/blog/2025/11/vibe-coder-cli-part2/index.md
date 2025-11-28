@@ -6,11 +6,13 @@ modified: 2025-11-20
 draft: false
 author: David Drugeon-Hamon
 tags:
-  - blog
+  - kubernetes
+  - network-policies
+  - automation
+  - SRE
   - IA
   - claude-code
   - assistants-code
-  - wescale
 categories:
   - IA Générative
   - Outils
@@ -226,7 +228,7 @@ La réponse m'est venue d'une rencontre inattendue sur les réseaux sociaux et d
 
 Mais ça, c'est une autre histoire que je vous raconterai dans le prochain article.
 
-👉 **[Lire la partie 3 : Vibe coding avec Speckit](#)** *(à venir)*
+👉 **[Lire la partie 3 : Vibe coding avec Speckit ?](/blog/2025/11/vibe-coder-cli-part3/)**
 
 ## Sources
 
