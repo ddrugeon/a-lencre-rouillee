@@ -422,6 +422,74 @@ Verdict:
 
 ✅ **PRÊT POUR L'IMPLÉMENTATION**
 
+### Étape 7 : Implémentation
+
+```bash
+/speckit.implement
+```
+
+Après toutes ces phases, nous sommes enfin prêts à nous lancer dans l'implémentation de notre fonctionnalité.
+Cette commande demande à Claude de générer le code pour chacune des tâches définies dans le fichier `tasks.md`. Claude suit scrupuleusement le plan établi et respecte la constitution du projet.
+
+Pendant cette phase, l'assistant de code :
+- **Exécute les tâches dans l'ordre défini** en respectant les dépendances identifiées et leurs priorités
+- **Génère le code** en suivant les conventions de codage établies dans la constitution
+- **Écrit les tests** conformément aux patterns TDD définis pour le projet
+- **Met à jour la documentation** si nécessaire
+
+L'implémentation se fait de manière itérative avec une boucle de feedback avec le développeur. Pour chaque tâche, Claude :
+1. Affiche la tâche en cours d'exécution
+2. Génère le code correspondant
+3. Demande confirmation au développeur avant de continuer.
+4. Exécute les tests pour valider l'implémentation
+5. Passe à la tâche suivante une fois les tests validés
+
+Voici un exemple de sortie pendant l'implémentation :
+
+```bash
+🔄 Implementing Task T001: Add verbose flag to validate command
+   ✅ Modified: cmd/validate.go
+   ✅ Created: internal/reporter/verbose_reporter.go
+   ✅ Tests passing: 12/12
+
+🔄 Implementing Task T002: Create ValidationError struct with details
+   ✅ Modified: internal/domain/validation.go
+   ✅ Tests passing: 18/18
+[...]
+```
+
+{{< callout type="tip">}}
+> Si une tâche échoue (tests qui ne passent pas, erreur de compilation), Claude essaiera de corriger automatiquement les erreurs. Néanmoins, le développeur peut reprendre la main.
+> Par exemple, il m'est arrivé de passer le linter sur le code généré et ai demandé à Claude de corriger les erreurs remontées.
+>
+> Vous pouvez aussi interrompre l'implémentation à tout moment pour revoir le code généré. La commande `/speckit.implement` reprendra là où elle s'était arrêtée.
+{{< /callout >}}
+
+À la fin de l'implémentation, Claude produit un résumé des modifications effectuées :
+
+```markdown
+## Implementation Summary
+
+### Files Created (4)
+- internal/reporter/verbose_reporter.go
+- internal/reporter/table_formatter.go
+- internal/reporter/verbose_reporter_test.go
+- internal/reporter/table_formatter_test.go
+
+### Files Modified (3)
+- cmd/validate.go
+- internal/domain/validation.go
+- internal/application/validator_service.go
+
+### Test Coverage
+- New tests: 24
+- Total coverage: 87% (+3%)
+
+### All acceptance criteria validated ✅
+```
+
+Une fois l'implémentation terminée, il ne reste plus qu'à revoir le code généré, valider manuellement les scénarios d'acceptation définis dans le `spec.md`, puis merger la branche dans `main` si les tests d'acceptance sont validés.
+
 ## Et pour conclure : Mission accomplie, le code augmenté est industrialisé
 
 En partant d'un besoin simple — transformer de manière fastidieuse plus d'une centaine de règles de flux en Network Policies Cilium — j'ai pu expérimenter le "vibe coding" en conditions réelles.
