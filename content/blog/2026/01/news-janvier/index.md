@@ -274,7 +274,7 @@ Les vraies discussions se font lors des afters au bar, pas sur scène. Pourquoi 
 
 ### Sanglicam : la domotique anti-sangliers
 
-Dans le podcast Tranches de Tech, Sylvain Valèze raconte sa lutte contre les sangliers qui ravagent son jardin toulousain.
+Dans le podcast Tranches de Tech, Sylvain Wallez raconte sa lutte contre les sangliers qui ravagent son jardin toulousain.
 
 Il a mis en place à l'aide de son système domotique un système de détection et d'alarmes pour effrayer les animaux indésirables.
 
