@@ -23,7 +23,7 @@ enableGitInfo: true
 menu:
   main:
     - name: Blog
-      pageRef: /blog
+      pageRef: /
       weight: 1
     - name: Conférences
       pageRef: /talks
@@ -58,6 +58,9 @@ menu:
       url: "https://twitter.com/zebeurton"
       params:
         icon: x-twitter
+
+# Sections principales pour la home page
+mainSections: ['blog']
 
 # Paramètres du thème
 params:
