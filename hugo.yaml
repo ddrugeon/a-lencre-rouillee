@@ -59,6 +59,9 @@ menu:
       params:
         icon: x-twitter
 
+# Sections principales pour la home page et le flux RSS
+mainSections: ['blog']
+
 # Paramètres du thème
 params:
   description: "Chroniques d'un corsaire du cyberspace"
