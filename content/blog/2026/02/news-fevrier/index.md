@@ -1,7 +1,7 @@
 ---
 title: Les news du mois de février 2026
 draft: false
-Date: 2026-02-28
+Date: 2026-03-05
 author: David Drugeon-Hamon
 description: Etcd craque sous la pression, la souveraineté numérique se construit brique par brique, et les agents IA affûtent leurs outils CLI. Ma sélection de février.
 reading_time:
@@ -25,7 +25,7 @@ ShowCodeCopyButtons: false
 ShowWordCount: true
 comments: true
 image:
-created: 2026-02-28
+created: 2026/02/28
 statut: publié
 modified: 2026-03-05T15:33:38+01:00
 ---
@@ -34,7 +34,7 @@ modified: 2026-03-05T15:33:38+01:00
 <p style="font-size: 0.75rem; color: #666; margin-top: 0.5rem; margin-bottom: 2rem;">
 Photo du Mont Blanc prises sur les pistes de ski de fond de la station des saisies @zebeurton
 </p>
-De retour de vacances où je me suis ressourcé à la montagne, il est temps pour moi de faire la revue de presse du mois de février. Même si les vacances furent sportives, j'ai tout de même continué à faire un peu de veille techno à mes heures perdues.
+De retour de vacances où je me suis ressourcé à la montagne, il est temps pour moi de passer en revue les différents articles, podcasts ou vidéos YouTube que j'ai pu glaner au mois de février.
 
 Au programme : des problématiques de production et de mise à l'échelle côté Kubernetes et observabilité, les enjeux toujours d'actualité de la souveraineté numérique, et un chapitre dédié à l'IA générative qui fait encore couler beaucoup d'encre. 
 
@@ -414,19 +414,30 @@ Un épisode qui rassure et qui challenge en même temps.
 
 ### La première trilogie de l'assassin royal
 
-Cela faisait un moment que j'avais dans ma liste de lecture la première trilogie de l'assassin royal de Robin Hobb.
+Cela faisait un moment que j'avais dans ma liste de lecture la première trilogie de l'assassin royal de Robin Hobb — et je dois être honnête : je n'ai pas accroché tout de suite.
 
-C'est une série de romans de fantasy se déroulant dans un univers médiéval fantastique. Le pitch : le grand-père d'un enfant l'amène à la cour royale car il est le bâtard du roi. Il ne veut plus payer pour l'élever. L'enfant, FitzChevalerie, est alors éduqué pour devenir l'assassin du roi.
+L'univers déroute au départ. Les personnages portent des noms qui désignent leurs qualités (*Patience*, *Subtilité*, *Vaillance*...), la famille royale est tentaculaire, et il faut du temps pour démêler qui est qui. À cela s'ajoutent deux systèmes de magie — l'Art et le Vif — dont j'ai mis du temps à saisir les contours. Et en toile de fond, le royaume est menacé par des raiders pirates qui ravagent les côtes, laissant dans leur sillage des survivants étrangement vidés de toute humanité.
 
-Ce qui m'a plu dans cette première trilogie est l'ambiance, les jeux de pouvoir et les intrigues politiques. On se laisse emporter dans l'éducation de Fitz et dans ses différentes batailles (aussi bien au sens propre comme figuré). Bref, j'ai hâte de lire la suite (je suis loin d'avoir fini). En tout cas, je suis content d'avoir pu conseiller à mon ami Henri Gomez cette trilogie qu'il a aussi dévorée.
+Ce qui m'a finalement accroché, c'est la fin du premier tome, quand Fitz se fait piéger dans sa mission. À partir de là, impossible de lâcher. Et surtout : j'ai adoré la relation entre Fitz et son loup Oeil-de-Nuit. Les voir grandir ensemble, développer ce lien animal et instinctif, c'est ce que Hobb fait de mieux.
+
+Mon personnage préféré reste le Fou du roi : à la fois bouffon et confident, il flatte son roi en public mais sait tout ce qui se trame en coulisses. Un personnage à double fond, fascinant.
+
+Le deuxième tome m'a semblé trop long. Mais le troisième rattrape tout avec ses enjeux politiques et ses luttes de pouvoir pour le trône. On pense à Game of Thrones, mais en plus posé et moins hollywoodien : pas de scènes de sexe ou de violence gratuite, l'histoire prend son temps — ce qui la rend d'ailleurs plus abordable pour ceux qui auraient peur de l'univers de Martin. La relation avec Molly est touchante et douloureuse à la fois : on se sent impuissant face à ce qui leur arrive.
+
+> [!quote]
+> Ce n'est pas le travail qui fait qu'on est fier ou pas ; c'est la façon de le faire
+
+En tant que pratiquant d'escrime de spectacle, les univers médiévaux-fantastiques me parlent naturellement — et celui de Robin Hobb a de la profondeur. J'ai hâte de lire la suite des 19 tomes que compte cet univers — d'autant que j'ai fait découvrir la saga à mon ami Henri Gomez, qui lui a déjà dévoré les treize premiers. Autant dire qu'il va mettre les bouchées doubles pour le rattraper.
 
 Plus d'infos sur [babelio](https://www.babelio.com/livres/Hobb-Lassassin-royal-Premiere-Epoque-Integrale-tom/919522)
 
 ## Pour conclure
 
-Ce mois a été encore riche en lecture, écoute de podcasts et vidéos YouTube, malgré mes vacances bien méritées. Je remercie Julien Wittouck d'avoir mentionné mon dernier article dans sa revue de presse du mois de février.
+Ce mois a été plutôt riche dans ma veille techno — entre les limites d'etcd en production, les outils CLI qui transforment les agents IA, et les réflexions sur la souveraineté numérique, il y a tant de sujets que c'est difficile de tout couvrir. J'espère néanmoins que cette sélection vous fera découvrir quelques pépites qui alimenteront votre propre réflexion.
 
-À dans un mois pour la prochaine édition de ma veille techno!
+Je remercie d'ailleurs Julien Wittouck d'avoir mentionné mon dernier article dans sa revue de presse du mois de février.
+
+À dans un mois pour la prochaine édition de ma veille techno !
 
 ---
 
