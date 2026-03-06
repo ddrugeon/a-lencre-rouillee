@@ -16,9 +16,9 @@ body {
 }
 
 /* Photo de profil en médaillon sur la page About */
-.hx-prose img[src*="author.jpg"],
+.hx-prose img[src*="author.avif"],
 .hx-prose img[alt*="Photo de profil"],
-article img[src*="author.jpg"] {
+article img[src*="author.avif"] {
     width: 200px !important;
     height: 200px !important;
     border-radius: 50% !important;
@@ -148,9 +148,9 @@ article {
 /* Ajustements responsive */
 @media (max-width: 768px) {
     /* Photo plus petite sur mobile */
-    .hx-prose img[src*="author.jpg"],
+    .hx-prose img[src*="author.avif"],
     .hx-prose img[alt*="Photo de profil"],
-    article img[src*="author.jpg"] {
+    article img[src*="author.avif"] {
         width: 150px !important;
         height: 150px !important;
     }

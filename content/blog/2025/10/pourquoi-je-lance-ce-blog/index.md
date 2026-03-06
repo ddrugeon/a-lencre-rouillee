@@ -28,7 +28,7 @@ ShowWordCount: true
 comments: false
 ---
 
-<img src="/blog/2025/10/pourquoi-je-lance-ce-blog/banner.jpg" alt="Bannière À l'encre rouillée" style="width: 100%; height: 400px; object-fit: cover; border-radius: 8px; margin-bottom: 2rem;">
+<img src="/blog/2025/10/pourquoi-je-lance-ce-blog/banner.avif" alt="Bannière À l'encre rouillée" style="width: 100%; height: 400px; object-fit: cover; border-radius: 8px; margin-bottom: 2rem;">
 <p style="font-size: 0.75rem; color: #666; margin-top: 0.5rem; margin-bottom: 2rem;">
 Photo de <a href="https://unsplash.com/fr/@martipaan" target="_blank" style="color: #999;">Martipaan</a> sur Unsplash
 </p>
@@ -41,7 +41,7 @@ En bon hôte, je me présente. Pour ceux qui ne me connaissent pas, je suis Davi
 
 ## Pourquoi ce blog ?
 
-<img src="logo.png" alt="Logo de À l'encre rouillée" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; display: block; margin: 2rem auto 1.5rem auto; border: 4px solid rgba(255, 255, 255, 0.1); box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);">
+<img src="logo.avif" alt="Logo de À l'encre rouillée" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; display: block; margin: 2rem auto 1.5rem auto; border: 4px solid rgba(255, 255, 255, 0.1); box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);">
 
 Après près de 26 ans de carrière, aussi bien en tant que développeur, architecte, cloud builder ou encore site reliability engineer, il est temps pour moi de partager mes découvertes et expérimentations. Le virus de l'informatique m'a attrapé jeune, à l'époque du Thomson MO5 et des clubs informatiques de quartier, et il ne m'a jamais quitté.
 
@@ -65,7 +65,7 @@ Mais écrire sur un blog d'entreprise, aussi enrichissant soit-il, impose certai
 
 ## "Cul de bouteille" ?
 
-<img src="cul-de-bouteille.jpg" alt="Cul de Bouteille" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; display: block; margin: 2rem auto 1.5rem auto; border: 4px solid rgba(255, 255, 255, 0.1); box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);">
+<img src="cul-de-bouteille.avif" alt="Cul de Bouteille" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; display: block; margin: 2rem auto 1.5rem auto; border: 4px solid rgba(255, 255, 255, 0.1); box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);">
 
 
 Vous vous demandez peut-être d'où vient ce nom étrange ? J'incarne depuis plusieurs années ce vaillant corsaire malouin lors de mes aventures avec l'équipage du Captain Popi. En effet, je pratique depuis plus de 20 ans l'escrime de spectacle. J'ai participé à plusieurs événements dont un court métrage et la fête des corsaires à Saint-Malo tous les étés depuis 2019.

@@ -38,10 +38,10 @@ ShowBreadCrumbs: true
 ShowCodeCopyButtons: false
 ShowWordCount: true
 comments: true
-image: /blog/2025/10/news-octobre/banner.jpg
+image: /blog/2025/10/news-octobre/banner.avif
 ---
 
-<img src="/blog/2025/10/news-octobre/banner.jpg" style="width: 100%; height: 400px; object-fit: cover; border-radius: 8px; margin-bottom: 2rem;">
+<img src="/blog/2025/10/news-octobre/banner.avif" style="width: 100%; height: 400px; object-fit: cover; border-radius: 8px; margin-bottom: 2rem;">
 <p style="font-size: 0.75rem; color: #666; margin-top: 0.5rem; margin-bottom: 2rem;">
 <a href="https://unsplash.com/fr/@ashni_ahlawat" target="_blank" style="color: #999;">Ashni</a> sur Unsplash
 </p>

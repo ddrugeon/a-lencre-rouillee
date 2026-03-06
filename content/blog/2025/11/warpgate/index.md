@@ -33,7 +33,7 @@ ShowWordCount: true
 comments: false
 ---
 
-<img src="/blog/2025/11/warpgate/warpgate-portal.jpg" style="width: 100%; height: 400px; object-fit: cover; border-radius: 8px; margin-bottom: 2rem;">
+<img src="/blog/2025/11/warpgate/warpgate-portal.avif" style="width: 100%; height: 400px; object-fit: cover; border-radius: 8px; margin-bottom: 2rem;">
 <p style="font-size: 0.75rem; color: #666; margin-top: 0.5rem; margin-bottom: 2rem;">
 Photo prise pendant mes vacances dans le Périgord à Sarlat la Cadéna - août 2025
 </p>
@@ -51,7 +51,7 @@ Plusieurs solutions existent sur le marché pour implémenter cette philosophie 
 
 Warpgate est un projet open source, sous licence Apache 2.0, développé par l'organisation Warp-tech. Il est écrit entièrement en Rust ce qui garantit de bonnes performances et une sécurité accrue. C'est un bastion qui supporte nativement ces protocoles: **SSH, HTTP/HTTPS, MySQL et PostgreSQL**.
 
-![Warpgate Architecture](/blog/2025/11/warpgate/warpgate-architecture.png)
+![Warpgate Architecture](/blog/2025/11/warpgate/warpgate-architecture.avif)
 *Architecture simplifiée de Warpgate : un point d'entrée unique pour tous vos protocoles*
 
 Sa force ? Contrairement aux solutions concurrentes, il n'est pas nécessaire d'installer un agent sur les machines cibles. Warpgate propose un binaire unique qui s'installe en quelques minutes sur un serveur. A noter qu'il peut aussi être exécuté sous forme d'un conteneur Docker. Vos utilisateurs vous remercieront car ils pourront utiliser leurs logiciels habituels pour se connecter aux machines.

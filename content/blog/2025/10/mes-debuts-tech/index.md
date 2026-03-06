@@ -25,7 +25,7 @@ ShowWordCount: true
 comments: false
 ---
 
-<img src="/blog/2025/10/mes-debuts-tech/cover.jpg" alt="Un " style="width: 100%; height: 400px; object-fit: cover; border-radius: 8px; margin-bottom: 2rem;">
+<img src="/blog/2025/10/mes-debuts-tech/cover.avif" alt="Un " style="width: 100%; height: 400px; object-fit: cover; border-radius: 8px; margin-bottom: 2rem;">
 <p style="font-size: 0.75rem; color: #666; margin-top: 0.5rem; margin-bottom: 2rem;">
     Photo de <a href="https://unsplash.com/fr/@sjjillan" target="_blank" style="color: #999;">Sjjillan</a> sur Unsplash
 </p>
@@ -38,7 +38,7 @@ Remontons quarante ans en arrière, jusqu’à mes dix ans. Je suis alors en CM2
 
 À cette époque, le plan informatique pour tous était présenté par le Premier ministre. Ce plan consistait à équiper près de 50 000 écoles d'ordinateurs et à former aussi bien les enseignants que les écoliers.
 
-<img src="Thomson_MO5.jpg" alt="Thomson MO5" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; display: block; margin: 2rem auto 1.5rem auto; border: 4px solid rgba(255, 255, 255, 0.1); box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);">
+<img src="Thomson_MO5.avif" alt="Thomson MO5" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; display: block; margin: 2rem auto 1.5rem auto; border: 4px solid rgba(255, 255, 255, 0.1); box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);">
 
 À cette rentrée-là, j’ai pu ainsi toucher pour la première fois un ordinateur, et quel ordinateur ! Un Thomson MO5, qui avait une mémoire de 48 Ko d’origine, extensible jusqu’à 96 Ko. Il était équipé d’un lecteur de cassettes et d’un crayon optique.
 
@@ -54,7 +54,7 @@ Le club était très bien doté pour l'époque avec de nombreuses machines iconi
 
 Je me rappelle ma première expérience avec un Mac : Je cherchais désespérément comment éjecter la disquette du lecteur, mais je ne pouvais pas trouver le bouton pour l’expulser. Ce n’est que bien plus tard que j’ai appris qu’il suffisait de faire glisser l’icône de la disquette vers la corbeille.
 
-<img src="Amstrad_CPC_6128.png" alt="Amstrad CPC 6128" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; display: block; margin: 2rem auto 1.5rem auto; border: 4px solid rgba(255, 255, 255, 0.1); box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);">
+<img src="Amstrad_CPC_6128.avif" alt="Amstrad CPC 6128" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; display: block; margin: 2rem auto 1.5rem auto; border: 4px solid rgba(255, 255, 255, 0.1); box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);">
 
 Après mon MO5, j’avais pu avoir un CPC 6128. Je me souviens encore des longues heures que j’ai passées à reproduire des lignes de code provenant du magazine « hebdogiciel ».
 
@@ -66,7 +66,7 @@ C’était l’apogée de la popularité d’Amstrad en France, une époque où 
 
 Pour échanger nos jeux, il n’y avait pas de torrents ou de sites de téléchargement comme ceux d’aujourd’hui, mais nous échangions des disquettes avec les copains. Le plus dur était de se constituer un réseau nous permettant de récupérer les nouveautés.
 
-<img src="Commodore_Amiga_500.jpeg" alt="Commodore Amiga 500" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; display: block; margin: 2rem auto 1.5rem auto; border: 4px solid rgba(255, 255, 255, 0.1); box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);">
+<img src="Commodore_Amiga_500.avif" alt="Commodore Amiga 500" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; display: block; margin: 2rem auto 1.5rem auto; border: 4px solid rgba(255, 255, 255, 0.1); box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);">
 
 
 En 1991, après avoir passé près de six ans dans le monde des ordinateurs 8 bits, j'ai franchi le pas en m'achetant un Amiga 500+ avec les économies que j'avais faites au fil du temps. L’Amiga était réputé pour ses capacités graphiques et pour ses jeux innovants. J'ai pu aussi continuer à coder des petits jeux à l'aide du BlitzBasic. Ce langage dérivé du Basic offrait un ensemble d’outils complets pour faciliter la conception de jeux (éditeur de sprites, boucle de jeu, etc.), une révolution à l’époque comparable aux environnements de développement intégrés (IDE) d’aujourd’hui. A noter que le Blitz Basic a été porté sur Windows et est toujours disponible.
