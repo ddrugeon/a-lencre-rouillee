@@ -30,7 +30,7 @@ comments: false
 statut: a-publier
 ---
 
-<img src="/blog/2025/11/vibe-coder-cli-part2/banner.jpg" alt="Un " style="width: 100%; height: 400px; object-fit: cover; border-radius: 8px; margin-bottom: 2rem;">
+<img src="/blog/2025/11/vibe-coder-cli-part2/banner.avif" alt="Un " style="width: 100%; height: 400px; object-fit: cover; border-radius: 8px; margin-bottom: 2rem;">
 <p style="font-size: 0.75rem; color: #666; margin-top: 0.5rem; margin-bottom: 2rem;">
     Photo de <a href="https://unsplash.com/fr/@brikelly">Brian Kelly</a> sur Unsplash
 </p>
@@ -116,7 +116,7 @@ L'assistant de code est basé sur plusieurs modèles disponibles du marché :  
 
 L'abonnement donne une limite mensuelle sur l'utilisation d'un modèle. En fonction de celui qui est sélectionné, cette limite peut être vite atteinte.
 
-<img src="/blog/2025/11/vibe-coder-cli-part2/junie-pricing.png"/>
+<img src="/blog/2025/11/vibe-coder-cli-part2/junie-pricing.avif"/>
 
 Ce que j'ai pu constaté est que la limite est vite atteinte lorsque l'on demande à Junie de spécifier et implémenter une nouvelle fonctionnalité en fonction du modèle choisi.
 

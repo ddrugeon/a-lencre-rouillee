@@ -42,7 +42,7 @@ ShowWordCount: true
 comments: false
 statut: publié
 ---
-<img src="/blog/2025/12/reinvent-2025/banner.jpg" style="width: 100%; height: 400px; object-fit: cover; border-radius: 8px; margin-bottom: 2rem;">
+<img src="/blog/2025/12/reinvent-2025/banner.avif" style="width: 100%; height: 400px; object-fit: cover; border-radius: 8px; margin-bottom: 2rem;">
 <p style="font-size: 0.75rem; color: #666; margin-top: 0.5rem; margin-bottom: 2rem;">
 <a href="https://unsplash.com/fr/@jonasjacobsson" target="_blank" style="color: #999;">Jonas Jacobson</a> sur Unsplash
 </p>

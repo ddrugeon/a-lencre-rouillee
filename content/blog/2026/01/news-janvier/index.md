@@ -30,7 +30,7 @@ created: 2026/01/31
 statut: publié
 ---
 
-<img src="/blog/2026/01/news-janvier/banner.jpg" style="width: 100%; height: 400px; object-fit: cover; border-radius: 8px; margin-bottom: 2rem;">
+<img src="/blog/2026/01/news-janvier/banner.avif" style="width: 100%; height: 400px; object-fit: cover; border-radius: 8px; margin-bottom: 2rem;">
 <p style="font-size: 0.75rem; color: #666; margin-top: 0.5rem; margin-bottom: 2rem;">
 Photo de <a href="https://unsplash.com/@chatelp" target="_blank" style="color: #999;">Pierre Châtel-Innocenti</a> sur <a href="https://unsplash.com/photos/pxoZSTdAzeU" target="_blank" style="color: #999;">Unsplash</a>
 </p>

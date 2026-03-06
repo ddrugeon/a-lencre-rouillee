@@ -32,7 +32,7 @@ comments: false
 statut: a-publier
 ---
 
-<img src="/blog/2025/11/vibe-coder-cli-part3/banner.jpg" alt="Un développeur travaillant avec un assistant de code IA" style="width: 100%; height: 400px; object-fit: cover; border-radius: 8px; margin-bottom: 2rem;">
+<img src="/blog/2025/11/vibe-coder-cli-part3/banner.avif" alt="Un développeur travaillant avec un assistant de code IA" style="width: 100%; height: 400px; object-fit: cover; border-radius: 8px; margin-bottom: 2rem;">
 <p style="font-size: 0.75rem; color: #666; margin-top: 0.5rem; margin-bottom: 2rem;">
     Photo de <a href="https://unsplash.com/fr/@simonkadula">Simon Kadula</a> sur Unsplash
 </p>
@@ -150,11 +150,11 @@ Il manque donc une étape cruciale entre "J'ai une idée d'une nouvelle fonction
 
 Et c'est à ce moment que je vois ce message sur Bluesky de Tugdual Grall de Github :
 
-<img src="/blog/2025/11/vibe-coder-cli-part3/tugdual-grall-bluesky.png"/>
+<img src="/blog/2025/11/vibe-coder-cli-part3/tugdual-grall-bluesky.avif"/>
 
 En réponse à son message, je lui dis qu'actuellement, j'essaie de spécifier au maximum les fonctionnalités pour être sûr d'obtenir de l'assistant de code les fonctionnalités attendues. Et, il me donne alors un lien vers Speckit.
 
-<img src="/blog/2025/11/vibe-coder-cli-part3/speckit.png"/>
+<img src="/blog/2025/11/vibe-coder-cli-part3/speckit.avif"/>
 
 Intrigué, je commence à lire la documentation. J'en conclus que c'est une bonne méthode pour aider à spécifier les fonctionnalités puis à les implémenter avec un agent de code.
 

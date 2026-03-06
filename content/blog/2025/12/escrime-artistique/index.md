@@ -39,7 +39,7 @@ ShowWordCount: true
 comments: false
 ---
 
-<img src="/blog/2025/12/escrime-artistique/banner.jpg" style="width: 100%; height: 400px; object-fit: cover; border-radius: 8px; margin-bottom: 2rem;">
+<img src="/blog/2025/12/escrime-artistique/banner.avif" style="width: 100%; height: 400px; object-fit: cover; border-radius: 8px; margin-bottom: 2rem;">
 <p style="font-size: 0.75rem; color: #666; margin-top: 0.5rem; margin-bottom: 2rem;">
 Photo prise lors de la fête des corsaires à St Malo, Bretagne en 2022
 </p>
@@ -106,7 +106,7 @@ Par exemple, je vous conseille de regarder cette saynète issue des championnats
 
 L'enseignement de cette discipline se fait généralement dans une salle d'armes. Le maître d'armes ou le prévôt enseigne leur art sous forme de fondamentaux, c'est-à-dire des déplacements codifiés (passe avant, retraite, fente...) tout en effectuant des mouvements d'armes pour simuler des attaques en pointe ou de taille, ou des parades.
 
-<img src="/blog/2025/12/escrime-artistique/cours_ensemble.jpg" alt="Photo issue du cours de Didier Le Gall"/>
+<img src="/blog/2025/12/escrime-artistique/cours_ensemble.avif" alt="Photo issue du cours de Didier Le Gall"/>
 
 Cette phase permet de comprendre le vocabulaire tout en s'imprégnant des mouvements à effectuer.
 
@@ -140,13 +140,13 @@ Eric m'a proposé de rejoindre le club où il prenait ses cours. Je me suis donc
 
 Le fait de manier des armes différentes m'a tout de suite plu. Le plus dur était de comprendre les instructions pour un novice comme moi sans compter la synchronisation nécessaire entre les mouvements de jambe et les attaques ou parades correspondantes.
 
-<img src="/blog/2025/12/escrime-artistique/escrime15_2212.jpg" alt="Cyrano - 2002"/>
+<img src="/blog/2025/12/escrime-artistique/escrime15_2212.avif" alt="Cyrano - 2002"/>
 
 Après un an passé dans le club de Châteaugiron, j'ai préféré trouver un club à proximité de mon domicile. Et c'est pour cela que j'ai rejoint la section escrime artistique du club de Cesson Sévigné animé par le maître Didier Le Gall. Depuis 2002, je suis licencié dans ce club (et depuis 2024, au club ACE suite à la liquidation du club originel).
 
 J'ai aussi eu la chance, il y a une vingtaine d'années, d'assister à des stages animés par des pointures comme Maître Jean Promart (j'ai son livre dédicacé à la maison), Maître Pradel et surtout Maître Claude Carliez. Je me souviens d'avoir fait deux stages avec lui. C'était une superbe expérience et j'en garde de très bons souvenirs.
 
-<img src="/blog/2025/12/escrime-artistique/ban.jpg" alt="les lances de Bretagne"/>
+<img src="/blog/2025/12/escrime-artistique/ban.avif" alt="les lances de Bretagne"/>
 
 J'ai aussi rejoint les lances de Bretagne, troupe médiévale du XVe siècle recréant les conditions d'un camp d'un seigneur et son ban. C'était une expérience extraordinaire où nous reconstituions les conditions d'un camp militaire d'un seigneur et de ses hommes d'armes. C'est une expérience hors du commun de vivre dans un château à la tombée de la nuit sans touriste à l'horizon.
 
